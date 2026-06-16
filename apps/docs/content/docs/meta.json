@@ -17,6 +17,7 @@
     "adapters",
     "platform-adapters",
     "slack-primitives",
+    "teams-primitives",
     "state-adapters",
     "---Messaging---",
     "streaming",
